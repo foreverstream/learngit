@@ -6,3 +6,4 @@ Creating a new branch is quick
 testing switch.
 Creating a new branch is quick AND simple.
 add merge.
+git stash.
